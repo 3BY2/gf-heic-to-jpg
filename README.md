@@ -1,6 +1,5 @@
 === GF Addon - HEIC to JPG ===
 Contributors: sterlingmchase
-Donate link: https://frontierwp.com/donate
 Tags: gravity forms, HEIC, JPG, image conversion
 Requires at least: 5.0
 Tested up to: 6.0
